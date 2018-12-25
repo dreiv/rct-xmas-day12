@@ -16,7 +16,7 @@ function App() {
   return (
     <div>
       <h1>
-        <span role="img" aria-label="React Holiday Two">
+        <span role="img" aria-label="React Holiday Twelve">
           ⚛️🎄✌️
         </span>
         : Day 12
